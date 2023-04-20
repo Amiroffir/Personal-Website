@@ -462,6 +462,7 @@ textarea {
   }
   .content {
     padding-bottom: 100px;
+    margin-top: 10px;
   }
   .header {
     width: 100%;
@@ -519,9 +520,6 @@ textarea {
   }
 
   @media screen and (max-width: 400px) {
-    .content {
-      margin-top: 10px;
-    }
     .content-card {
       margin: 0 30px;
     }
