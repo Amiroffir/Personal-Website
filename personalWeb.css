@@ -519,8 +519,8 @@ textarea {
   }
 
   @media screen and (max-width: 400px) {
-    .socials {
-      margin-bottom: 10px;
+    .content {
+      margin-top: 10px;
     }
     .content-card {
       margin: 0 30px;
