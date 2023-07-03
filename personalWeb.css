@@ -521,7 +521,7 @@ textarea {
 
   @media screen and (max-width: 400px) {
     .content-card {
-      margin: 0 30px;
+      margin: auto;
     }
     .home h1 {
       font-size: 2rem;
